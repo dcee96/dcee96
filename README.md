@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @dcee96
-- 👀 I’m interested in exploring deep learning,and task automation with python.
-- 🌱 I'm currently working on becoming a Full Stack Developer.
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me cooleydylan10@yahoo.com
+- Hello everyone, my name is Dylan and I am a Full Stack Java/Angular Developer.
+- I'm currently working on learning swift for iOS app development. 
+- 📫 How to reach me cooleydylan6@gmail.com
 
 <!---
 dcee96/dcee96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
